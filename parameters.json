@@ -20,15 +20,15 @@
             "FaceColor": "none",
             "FaceAlpha": 0,
             "LineStyle": "-",
-            "LineWidth": 1.5,
+            "LineWidth": 0.5,
             "Comments": "theme of the zoomed area"
         },
 
      "dynamicRect": 
         {
             "LineColor": [0, 0.4471, 0.7412],
-            "LineWidth": 2,
-            "MarkerSize": 9,
+            "LineWidth": 1.2,
+            "MarkerSize": 2,
             "FaceColor": [0, 0.4471, 0.7412],
             "FaceAspect": 0.3,
             "EdgeColor": "k",
@@ -39,14 +39,14 @@
         {
             "LineNumber": 2, 
             "LineColor": "k",
-            "LineWidth": 1.5,
+            "LineWidth": 1.2,
             "LineStyle": ":",
             "StartHeadStyle": "ellipse",
-            "StartHeadLength": 3,
-            "StartHeadWidth": 3,
+            "StartHeadLength": 1,
+            "StartHeadWidth": 1,
             "EndHeadStyle": "cback2",
-            "EndHeadLength": 7,
-            "EndHeadWidth": 7,
+            "EndHeadLength": 3,
+            "EndHeadWidth": 3,
             "Comments": "theme of the connected lines"
         }
 
